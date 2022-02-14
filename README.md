@@ -15,3 +15,10 @@ $-> cd code
 
 First Preview
 
+![image](https://user-images.githubusercontent.com/9885341/153875773-5d1e4e57-19fc-4d62-990b-681b1aca62f2.png)
+
+
+Second Preview
+
+
+![image](https://user-images.githubusercontent.com/9885341/153876233-2a45f5b6-c5a3-42f8-9aaa-52eb722d0868.png)
